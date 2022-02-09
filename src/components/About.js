@@ -11,8 +11,8 @@ export default function About(){
                     <br className="hidden lg:inline-block" />
                         I am a full stack developer specializing in building responsive websites.
                     <p className="mb-8 leading-relaxed">
-                        Lorem50
-
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
+                        suscipit officia aspernatur veritatis. Asperiores, aliquid?
                     </p>
                     <div className='flex justify-center'>
                         <a href = '#contact'
